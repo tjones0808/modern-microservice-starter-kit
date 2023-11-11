@@ -2,9 +2,9 @@
 NextJS / React / MUI / NestJS / GRPC
 
 # UI
- npm install
- update .env configs
- npm run dev
+npm install
+update .env configs
+npm run dev
 
 # microservice api
 **secured api routes with firebase oauth
