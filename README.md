@@ -2,8 +2,10 @@
 NextJS / React / MUI / NestJS / GRPC
 
 # UI
-npm install
+npm install 
+
 update .env configs
+
 npm run dev
 
 # microservice api
@@ -12,10 +14,12 @@ npm run dev
 
 ## bookstore
 npm install
+
 npm run start:dev
 
 ## gateway
 npm install
+
 npm run start:dev
 
 view swagger docs @ http://localhost:3001/api
